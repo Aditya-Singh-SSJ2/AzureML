@@ -1,4 +1,5 @@
-**AzureML Codes Notebook**
+**AzureML Codes Notebook:**
+
 This repository contains Python notebooks designed for the "Headfirst into Azure.Core" series. These notebooks provide practical, hands-on examples and exercises to help you dive deep into the Azure Core services using Azure Machine Learning (AzureML). Whether you're a beginner or an experienced developer, these notebooks will guide you through the essential concepts and functionalities of AzureML, enabling you to leverage the power of Azure for your machine learning projects.
 
 **Features:**
